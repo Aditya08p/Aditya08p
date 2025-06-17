@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Patil</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
-
-<p align = "center">B.Tech Electronics & Communication Engineering | JIIT Noida <br/> Embedded Systems • IoT • Video Editor • Graphic Designer</p> <br/>
-<p align = "center">My journey into the tech world began with a strong foundation in Embedded Systems and Circuit Design, complemented by my passion for video editing and graphic design.</p> <p align = "center">Currently diving deep into Dart with Flutter SDK.</p>
+<p align = "center"><b>B.Tech Electronics & Communication Engineering | JIIT Noida <br/> Embedded Systems • IoT • Video Editor • Graphic Designer</b></p>
+<p align = "center">My journey into the tech world began with a strong foundation in Embedded Systems and Circuit Design, complemented by my passion for video editing and graphic design. Currently diving deep into Dart with Flutter SDK and LLM APIs.</p>
 
 ## 🏆 Highlights
 
@@ -43,7 +42,7 @@
 ![Blender](https://img.shields.io/badge/Blender%203D-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya08p&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya08p&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 ![](https://github-readme-stats.vercel.app/api?username=aditya08p&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=aditya08p&theme=tokyonight&hide_border=false)
 ![](https://github-contributor-stats.vercel.app/api?username=aditya08p&limit=3&theme=tokyonight&combine_all_yearly_contributions=true)
