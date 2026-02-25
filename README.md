@@ -42,7 +42,6 @@
 ![Blender](https://img.shields.io/badge/Blender%203D-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya08p&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
-![](https://github-readme-stats.vercel.app/api?username=aditya08p&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=aditya08p&theme=tokyonight&hide_border=false)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya08p&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=aditya08p&theme=tokyonight&hide_border=false) </br>
 ![](https://github-contributor-stats.vercel.app/api?username=aditya08p&limit=3&theme=tokyonight&combine_all_yearly_contributions=true)
