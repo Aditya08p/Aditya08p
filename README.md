@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Patil</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
-<p align = "center"><b>B.Tech Electronics & Communication Engineering | JIIT Noida <br/> Embedded Systems • IoT • Video Editor • Graphic Designer</b></p>
-<p align = "center">My journey into the tech world began with a strong foundation in Embedded Systems and Circuit Design, complemented by my passion for video editing and graphic design. Currently diving deep into Dart with Flutter SDK and LLM APIs.</p>
+<p align = "center"><b>B.Tech Electronics & Communication Engineering | JIIT Noida <br/> Intern at STMicroelectronics, System Research and Applications • Embedded Systems • STM32 • Edge AI</b></p>
+<p align = "center">My journey into the tech world began with a strong foundation in Embedded Systems and Circuit Design, Currently working on STM32 MCUs and Edge AI applications for Embedded Systems</p>
 
 ## 🏆 Highlights
 
@@ -28,8 +28,7 @@
 ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+
 
 ### Softwares
 ![Xilinx ISE 14.7](https://img.shields.io/badge/Xilinx%20ISE%2014.7-1C79B3.svg?style=flat)
