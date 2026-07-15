@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aditya Patil</h1>
-<h3 align="center">A passionate tech enthusiast from India</h3>
-<p align = "center"><b>B.Tech Electronics & Communication Engineering | JIIT Noida <br/> Intern at STMicroelectronics, System Research and Applications • Embedded Systems • STM32 • Edge AI</b></p>
-<p align = "center">My journey into the tech world began with a strong foundation in Embedded Systems and Circuit Design, Currently working on STM32 MCUs and Edge AI applications for Embedded Systems</p>
+<h3 align="center">Embedded Software Engineer @ STMicroelectronics</h3>
+<p align = "center"><b>B.Tech Electronics & Communication Engineering | JIIT Noida <br/> HAL/LL Driver development for STM32 MCUs • Embedded Systems • STM32 • Edge AI</b></p>
+<p align = "center">My journey into the tech world began with a strong foundation in Embedded Systems and Circuit Design, experienced with STM32 MCUs and Edge AI applications for Embedded Systems, Currently working on HAL/LL driver development and STM32 Driver verification.</p>
 
 ## 🏆 Highlights
 
+- 🤖 **2nd Prize** - ST Techweek's Hackathon'26
+- 🕶️ **2nd Prize** - Intern Recognition Innovation Success Challenge 6.0 (IRIS)
 - 🧠 **3rd Place** – ST AIoT Craft Design Contest
 - 🎖️ **Regional Finalist** – NXP AIM Smart Car Challenge
 - 🥇 **1st Place** – FPGATHON 1.0 by AMD & IEEE SB JIIT
